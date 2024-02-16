@@ -1,9 +1,11 @@
-# Halo semua 🙌🏻! 
+# Hey There! I'm Eki 🙌🏻! 
 
-Perkenalkan nama saya **Muhammad Rasyid Baihaki**.<br>
+<b>Aboutme<h4><b>
 
-Saya seorang **Mahasiswa** di Informatika Universitas Islam Indonesia.<br>
+💡 I'm passionate about Android development and game development.
 
-Saat ini saya bergabung dalam bangkit batch 6 dengan Android path.<br>
+🎓 I'm Currently studying Computer Science at Universitas Islam Indonesia
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]()ku ya.
+👨‍💻 i'm Currently learning Android development at Bangkit Academy batch 6.
+
+✉️ If you're interested in getting to know me, feel free to follow my [LinkedIn]() account.
